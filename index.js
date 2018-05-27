@@ -23,6 +23,12 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles(num) {
   let arr =[];
-  d
+  var str = 'I love the Beatles!'
+  var counter = 0;
+  do {
+    arr.push(str)
+    counter += num;
+  }
+  while (counter < 15)
   
 }
