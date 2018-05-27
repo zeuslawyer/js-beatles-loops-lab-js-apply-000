@@ -29,6 +29,6 @@ function iLoveTheBeatles(num) {
     arr.push(str)
     counter += num;
   }
-  while (counter < 15)
+  while (counter < 15);
   
 }
